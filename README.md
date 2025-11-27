@@ -155,13 +155,13 @@ Hourly ride trends
 ## 📥 **Project Files**
 
 📄 **Dashboard PDF:**
-[Uber Dashboard PDF](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Dashboard.pdf) <br>
+[Uber Dashboard PDF](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber%20Analytics%20Dashboard.pdf) <br>
 📄 **Business Requirements Document:**
-[Business Requirements Document](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Analytics_BRD.pdf) <br>
+[Business Requirements Document](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber%20Analytics%20Business%20Requirements.pdf) <br>
 📊 **Power BI PBIX File:**
-[Power BI File (.pbix)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Dashboard.pbix) <br>
+[Power BI File (.pbix)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber%20Analytics%20Dashboard.pbix) <br>
 📁 **Dataset:**
-[Dataset (uber.xlsx)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/uber.xlsx) <br>
+[Dataset (uber.xlsx)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/tree/main/Dataset) <br>
 
 ---
 
