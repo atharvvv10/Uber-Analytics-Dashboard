@@ -128,16 +128,16 @@ Hourly ride trends
 
 ## 🛠 **Features Implemented**
 
-✔ Data Cleaning with Power Query
-✔ DAX Measures for KPIs
-✔ Multi-page Navigation
-✔ Bookmarks + Hidden Menus
-✔ Dynamic Tooltips
-✔ Top-N Filters
-✔ Professional UI/UX Style
-✔ Slicers for Pickup/Drop/Booking Status
-✔ Interactive charts & trend lines
-✔ Custom icons for menu navigation
+✔ Data Cleaning with Power Query <br>
+✔ DAX Measures for KPIs <br>
+✔ Multi-page Navigation <br>
+✔ Bookmarks + Hidden Menus <br>
+✔ Dynamic Tooltips <br>
+✔ Top-N Filters <br>
+✔ Professional UI/UX Style <br>
+✔ Slicers for Pickup/Drop/Booking Status <br>
+✔ Interactive charts & trend lines <br>
+✔ Custom icons for menu navigation <br>
 
 ---
 
@@ -155,13 +155,13 @@ Hourly ride trends
 ## 📥 **Project Files**
 
 📄 **Dashboard PDF:**
-[Uber Dashboard PDF](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Dashboard.pdf)
+[Uber Dashboard PDF](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Dashboard.pdf) <br>
 📄 **Business Requirements Document:**
-[Business Requirements Document](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Analytics_BRD.pdf)
+[Business Requirements Document](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Analytics_BRD.pdf) <br>
 📊 **Power BI PBIX File:**
-[Power BI File (.pbix)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Dashboard.pbix)
+[Power BI File (.pbix)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/Uber_Dashboard.pbix) <br>
 📁 **Dataset:**
-[Dataset (uber.xlsx)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/uber.xlsx)
+[Dataset (uber.xlsx)](https://github.com/atharvvv10/Uber-Analytics-Dashboard/blob/main/uber.xlsx) <br>
 
 ---
 
@@ -175,7 +175,6 @@ Hourly ride trends
 
 ---
 
----
 
 ## 👨‍💻 Author
 
