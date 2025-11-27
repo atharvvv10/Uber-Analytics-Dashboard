@@ -1,6 +1,6 @@
 # 🚖 Uber Analytics Dashboard – Power BI | Power Query | Excel
 
-*A Complete Data Analytics Project with Bookmarks, Navigation & Interactive UI*
+*A fully interactive Uber Analytics Dashboard showcasing ride performance, revenue trends, customer behavior, and time-based insights using Power BI, DAX, and Power Query*
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Tool](https://img.shields.io/badge/PowerBI-Used-yellow)
